@@ -1,0 +1,2 @@
+class Sen < Legislator
+end

@@ -1,0 +1,2 @@
+class Rep < Legislator
+end
