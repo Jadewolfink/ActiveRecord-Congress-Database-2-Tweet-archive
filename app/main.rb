@@ -1,7 +1,7 @@
 require 'sqlite3'
 require_relative 'models/senator.rb'
 senator = Senator.new
-
+asdgasdgas
 p "enter a state"
 input = gets.chomp
 
